@@ -1,0 +1,8 @@
+{
+    "name": "mobadsources/facebook",
+    "autoload": {
+        "psr-4": {
+            "Mobadsources\\Facebook\\": "src/"
+        }
+    }
+}
